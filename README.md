@@ -1,5 +1,9 @@
 # Hi, I'm Samia
 
+### Currently on my journey to becoming a Cloud Engineer through AiCore Bootcamp
+All of my repos are currently relative to trailing GitHub functionality
+
+
 <!--
 **S-a-a-h/S-a-a-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
