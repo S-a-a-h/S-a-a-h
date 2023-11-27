@@ -12,7 +12,7 @@ Location:
 United Kingdom   
 
 Qualifications:    
-Bangor University: BSc (Marine Vertebrate Zoology)   
+BSc (Marine Vertebrate Zoology) from Bangor University   
 Sailing & Windsurfing Instructor   
 Yoga Instructor [bookmarksinthestars](https://www.instagram.com/samiaonearth/)   
 
