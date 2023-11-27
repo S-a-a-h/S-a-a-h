@@ -1,4 +1,4 @@
-### Hi, I am Samia
+# Hi, I'm Samia
 
 <!--
 **S-a-a-h/S-a-a-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
