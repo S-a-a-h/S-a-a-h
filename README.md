@@ -1,7 +1,7 @@
 # Hi, I'm Samia
 
 ### Currently on my journey to becoming a Cloud Engineer through AiCore Bootcamp
-All of my repos are currently relative to trailing GitHub functionality
+All of my repos are currently relative to trialing GitHub functionality
 
 
 <!--
