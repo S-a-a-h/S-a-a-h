@@ -16,6 +16,10 @@ BSc (Marine Vertebrate Zoology) from Bangor University
 Sailing & Windsurfing Instructor   
 Yoga Instructor [bookmarksinthestars](https://www.instagram.com/samiaonearth/)   
 
+Languages:
+Python
+SQL 
+
 Hobbies:   
 Outdoor Sports   
 Reading   
