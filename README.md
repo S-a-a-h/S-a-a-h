@@ -17,13 +17,20 @@ Sailing & Windsurfing Instructor
 Yoga Instructor [bookmarksinthestars](https://www.instagram.com/samiaonearth/)   
 
 Languages:
-Python
-SQL 
+- [x] Python
+- [x] SQL 
+- [ ] HTML
+- [ ] CSS
+- [ ] JavaScript
 
 Hobbies:   
 Outdoor Sports   
 Reading   
 DIY   
+
+> [!NOTE]
+> I am on an ongoing learning journey in the IT and Fitness/Wellbeing sector.
+
 
 <!--
 **S-a-a-h/S-a-a-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
