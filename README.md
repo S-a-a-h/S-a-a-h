@@ -1,8 +1,8 @@
 # Hi, I'm Samia
 
 ### Currently on my journey to becoming a Cloud Engineer through AiCore Bootcamp
-#### All of my repos are currently relative to trialing GitHub functionality
-#### 🌱 I’m currently learning Python
+#### All of my repos are currently relative my bootcamp training
+#### 🌱 I’m currently learning Microsoft Azure
 #### 🤔 I’m looking for help with all things coding!
 
 Name: Samia A.   
@@ -12,8 +12,8 @@ Location:
 United Kingdom   
 
 Qualifications:    
-BSc (Marine Vertebrate Zoology) from Bangor University   
-Sailing & Windsurfing Instructor   
+Bachelor of Science (Marine Vertebrate Zoology) from Bangor University   
+Senior Watersports Instructor  
 Yoga Instructor (In Training) [bookmarksinthestars](https://www.instagram.com/samiaonearth/)   
 
 Languages:
