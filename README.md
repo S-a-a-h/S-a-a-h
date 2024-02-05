@@ -14,7 +14,7 @@ United Kingdom
 Qualifications:    
 BSc (Marine Vertebrate Zoology) from Bangor University   
 Sailing & Windsurfing Instructor   
-Yoga Instructor [bookmarksinthestars](https://www.instagram.com/samiaonearth/)   
+Yoga Instructor (In Training) [bookmarksinthestars](https://www.instagram.com/samiaonearth/)   
 
 Languages:
 - [x] Python
