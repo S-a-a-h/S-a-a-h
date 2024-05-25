@@ -2,7 +2,7 @@
 
 ### Junior Cloud Engineer
 #### I have recently completed my Cloud Engineering Bootcamp training with AiCore
-#### 🌱 I’m currently applying to relative roles 
+#### 🌱 I’m currently applying to relative roles in the UK and abroad!
 #### 🤔 I’m looking for help with all things coding to continually enhance my skills!
 
 Name: Samia A.   
