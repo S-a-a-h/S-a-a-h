@@ -23,6 +23,10 @@ Languages:
 - [ ] CSS
 - [ ] JavaScript
 
+Platforms:
+- [x] AWS
+- [x] Microsoft Azure 
+
 Hobbies:   
 Outdoor Sports   
 Reading   
