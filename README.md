@@ -1,19 +1,18 @@
 # Hi, I'm Samia
 
 ### Junior Cloud Engineer
-#### I have recently completed my Cloud Engineering Bootcamp training with AiCore
-#### 🌱 I’m currently applying to relative roles in the UK and abroad!
-#### 🤔 I’m looking for help with all things coding to continually enhance my skills!
+#### I have completed my Cloud Engineering Bootcamp training with AiCore
+#### 🌱 I’m currently applying to engineering apprenticeships with an interest in Cloud Security
+#### 🤔 I’m looking for help with all things coding to continually enhance my skills and am open to experience-based opportunities!
 
 Name: Samia A.   
-Age: 27   
+Age: 28  
 
 Location:    
 United Kingdom   
 
 Qualifications:    
-Bachelor of Science (Marine Vertebrate Zoology) from Bangor University   
-Senior Watersports Instructor  
+BSc Marine Vertebrate Zoology (Bangor University)   
 Yoga Instructor (In Training)
 
 Languages:
@@ -25,11 +24,12 @@ Languages:
 
 Platforms:
 - [x] AWS
-- [x] Microsoft Azure 
+- [x] Microsoft Azure
+- [ ] GCP
 
 Hobbies:   
 Outdoor Sports   
-Reading   
+Reading    
 DIY   
 
 > [!NOTE]
